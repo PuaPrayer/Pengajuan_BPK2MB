@@ -9,10 +9,10 @@
           <div class="responsive-cell-block wk-desk-6 wk-ipadp-6 wk-tab-12 wk-mobile-12 left-one">
             <div class="content-box">
               <p class="text-blk section-head">
-                Lorem ipsum amet dolor
+                Hubungi Kami
               </p>
               <p class="text-blk section-subhead">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis volupta
+               Untuk informasi selanjutnya dapat menghubungi operator
               </p>
               <div class="icons-container">
                 <a class="share-icon">

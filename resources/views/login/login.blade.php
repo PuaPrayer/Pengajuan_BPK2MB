@@ -58,13 +58,13 @@
                 <div class="overlay-panel overlay-left">
                     <h1>Welcome Back!</h1>
                     <p>
-                        Lorem ipsum dolor sit amet.
+                        Silahkan Buat Akun !
                     </p>
                     <div class="btn-grad" id="signIn">Login</div>
                 </div>
                 <div class="overlay-panel overlay-right">
                     <h1>Selamat Datang</h1>
-                    <p>Lorem ipsum dolor sit amet.</p>
+                    <p> Ingin Studi Lanjut ? </p>
                     <div class="btn-grad" id="signUp">Sign Up</div>
                 </div>
             </div>

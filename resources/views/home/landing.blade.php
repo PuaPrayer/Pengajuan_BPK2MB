@@ -11,11 +11,10 @@
             Kabupaten Minahasa
           </h1>
           <p class="info-text">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, alias.
+            <!-- Bisa isi teks disini -->
           </p>
 
           <div class="btn_wrapper">
-
 
             <!-- <button class="btn documentation_btn">documentation</button> -->
           </div>
@@ -39,10 +38,17 @@
             </svg>
           </div>
           <div class="featured_info">
-            <span>Built for developers </span>
+            <span> Visi dan Misi </span>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-              ratione facilis animi voluptas exercitationem molestiae.
+              <span> Visi : </span>
+              “Minahasa Maju Dalam Ekonomi Dan Budaya, Berdaulat, Adil, Dan Sejahtera” <br> <br>
+              <span> Misi : </span>
+              1. Meningkatkan Pembangunan Sumberdaya Manusia Yang Berbudaya Dan Berdaya Saing; <br>
+              2. Mewujudkan Kemandirian Ekonomi Dengan Mendorong Sektor Pertanian, Perikanan Dan Pariwisata; <br>
+              3. Mewujudkan Pengembangan Kewilayahan Dengan Prinsip Pembangunan Berkelanjutan; dan <br>
+              4. Meningkatkan Pemerataan Kesejahteraan Masyarakat Yang Berkeadilan <br>
+              5. Memantapkan Manajemen Birokrasi Yang Profesional Melalui Tata Kelola Pemerintahan Yang Baik <br>
+
             </p>
           </div>
         </div>
@@ -53,10 +59,17 @@
             </svg>
           </div>
           <div class="featured_info">
-            <span>Designed to be modern</span>
+            <span> NAWACITA R3D </span>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
-              ipsum esse corrupti. Quo, labore debitis!
+            1. Menghadirkan pemerintah yang melindungi segenap masyarakat minahasa, memberikan rasa aman dilandasi kepentingan efektif, demokratis dan berbangsa dan bernegara <br>
+            2. Membuat pemerintah tidak absen dalam membangun tata kelola pemerintahan yang bersih, dan terpercaya <br>
+            3. Membangun minahasa dari pinggiran dengan memperkuat daerah perdesaan minahasa <br>
+            4. Memperkuat kemandirian ekonomi masyarakat minahasa melalui percepatan pembangunan sektor pertanian, perikanan dan pariwisata <br>
+            5. Meningkatkan kualitas hidup masyarakat kabupaten minahasa yang sehat, cerdas, terdidik dengan karakter kepribadian yang berdaya saing <br>
+            6. Meningkatkan produktifitas rakyat sehingga minahasa bisa maju dan sejahtera <br>
+            7. Membentuk karakter masyarakat minahasa, dengan memperkuat semangat mapalus dan sitou timou tumou tou <br>
+            8. Memperteguh kebhinekaan dan memperkuat restorasi sosial dengan menciptakan ruang dialog atar warga <br>
+            9. Memastikan terselenggaranya pembangunan berkelanjutan yang berwawasan lingkungan <br>
             </p>
           </div>
         </div>
@@ -68,10 +81,19 @@
             </svg>
           </div>
           <div class="featured_info">
-            <span>Documentation for everything</span>
+            <span> Sejarah Minahasa </span>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Non
-              nostrum voluptate totam ipsa corrupti vero!
+            Kabupaten Minahasa merupakan salah satu 
+            Kabupaten dari 15 Kabupaten/Kota dalam wilayah Provinsi Sulawesi Utara 
+            yang terdiri dari 25 Kecamatan, 227 Desa dan 43 Kelurahan.
+            <br>
+            Kabupaten Minahasa merupakan salah satu 
+            kabupaten tertua yang ada di Provinsi Sulawesi Utara yang beribukotakan Tondano. 
+            Jauh sebelumnya Minahasa dikenal dengan nama MALESUNG, 
+            dan kata Minahasa berasal dari kata MINAESA, MAHASA, MINHASA yang berarti menjadi satu. 
+            Kata ” Minahasa” ini merujuk dari musyawarah – musyawarah tertinggi di Minahasa 
+            dulu dalam rangka menyelesaikan perselisihan atau konflik antar mereka, 
+            membagi batas – batas wilayah sub etnik, dan membicarakan persatuan menghadapi musuh dari luar.  
             </p>
           </div>
         </div>
